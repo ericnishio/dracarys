@@ -1,0 +1,7 @@
+## Interface: 11302
+## Title: Dracarys
+## Notes: A cosmetic addon that shows a dragon around the player portrait.
+## Version: 1.0.0
+## SavedVariables: DracarysTextureIndex
+
+Dracarys.lua
