@@ -2,6 +2,8 @@
 
 A cosmetic addon for World of Warcraft Classic that shows a dragon around the player portrait.
 
+<img src="docs/dracarys.jpg" />
+
 ## How to use
 
 1. Copy this folder to your WoW addons folder (make sure it's named `Dracarys`).
