@@ -2,6 +2,12 @@
 
 A cosmetic addon for World of Warcraft Classic that shows a dragon around the player portrait.
 
+Supported variations:
+
+- Rare
+- Rare Elite
+- Elite
+
 <img src="docs/dracarys.jpg" />
 
 ## How to use
