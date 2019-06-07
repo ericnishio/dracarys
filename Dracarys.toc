@@ -1,6 +1,6 @@
 ## Interface: 11302
 ## Title: Dracarys
-## Notes: A cosmetic addon that shows a dragon around the player portrait.
+## Notes: A cosmetic addon that puts a dragon frame around your player portrait.
 ## Version: 1.0.0
 ## SavedVariables: DracarysTextureIndex
 
