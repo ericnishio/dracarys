@@ -1,8 +1,8 @@
 # Dracarys
 
-A cosmetic addon for World of Warcraft Classic that shows a dragon around the player portrait.
+A cosmetic addon for [*World of Warcraft Classic*](https://worldofwarcraft.com/en-us/wowclassic) that puts a dragon frame around your player portrait.
 
-Supported variations:
+Portrait options:
 
 - Rare
 - Rare Elite
@@ -10,7 +10,13 @@ Supported variations:
 
 <img src="docs/dracarys.jpg" />
 
-## How to use
+## Installation
 
-1. Copy this folder to your WoW addons folder (make sure it's named `Dracarys`).
-2. In game, type `/dracarys` to see a list of available commands.
+Copy this folder to your WoW addons folder and make sure it's named `Dracarys` (with a capital D).
+
+## In-Game Commands
+
+`/dracarys 1` - Turns your player portrait into a rare mob portrait
+`/dracarys 2` - Turns your player portrait into a rare elite mob portrait
+`/dracarys 3` - Turns your player portrait into an elite mob portrait
+`/dracarys 0` - Reverts your player portrait back to normal
