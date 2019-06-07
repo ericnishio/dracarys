@@ -46,8 +46,6 @@ SlashCmdList['DRACARYS'] = function(value)
     return
   end
 
-  Dracarys_PrintHelp()
-
   DracarysTextureIndex = index
 
   Dracarys_PrintChanged(index)
