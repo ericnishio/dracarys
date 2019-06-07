@@ -1,6 +1,6 @@
 # Dracarys
 
-A cosmetic addon for [*World of Warcraft Classic*](https://worldofwarcraft.com/en-us/wowclassic) that puts a dragon frame around your player portrait.
+A cosmetic addon for World of Warcraft Classic that puts a dragon frame around your player portrait.
 
 Portrait options:
 
