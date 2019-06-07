@@ -6,7 +6,7 @@ frame:RegisterEvent('PLAYER_ENTERING_WORLD')
 function frame:OnEvent(event, arg1)
   if event == 'ADDON_LOADED' and arg1 == 'DracarysTextureIndex' then
     if DracarysTextureIndex == nil then
-      DracarysTextureIndex = 0
+      DracarysTextureIndex = 1
     end
   end
 
