@@ -17,6 +17,9 @@ Copy this folder to your WoW addons folder and make sure it's named `Dracarys` (
 ## In-Game Commands
 
 `/dracarys 1` - Turns your player portrait into a rare mob portrait
+
 `/dracarys 2` - Turns your player portrait into a rare elite mob portrait
+
 `/dracarys 3` - Turns your player portrait into an elite mob portrait
+
 `/dracarys 0` - Reverts your player portrait back to normal
